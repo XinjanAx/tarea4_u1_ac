@@ -14,7 +14,4 @@ public class Matricula {
 	public String toString() {
 		return "Matricula [matricula=" + mtr + ", estudiante=" + est + "]";
 	}
-	
-	
-	
 }
